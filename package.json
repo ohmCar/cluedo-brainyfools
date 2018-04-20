@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "sh bin/tools.sh && sh .github/.git_pre_push",
+    "test": "npm i -g mocha && mocha --recursive",
     "coverage": "nyc _mocha --recursive",
     "lint": "eslint .",
     "nodemon": "nodemon -i logs -i public -i templates -i test",
