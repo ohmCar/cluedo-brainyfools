@@ -1,4 +1,4 @@
-# cluedo-brainyfools
+# cluedo-brainyfools [![Build Status](https://travis-ci.org/ohmCar/cluedo-brainyfools.svg?branch=master)](https://travis-ci.org/ohmCar/cluedo-brainyfools)
 
 Do you want to play ?
 
